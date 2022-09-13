@@ -6,6 +6,7 @@ import java.util.List;
 public class PrimeBetweenTwoNumbers {
 
 	public static void main(String[] args) {
+		
 		int a =24;
 		int b=(int)Math.sqrt(a);
 		List<Integer> list= new ArrayList<>();
